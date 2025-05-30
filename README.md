@@ -14,6 +14,20 @@ A sleek and responsive Todo List application built with React, featuring a moder
 - 📱 Fully responsive design
 - 🎨 Modern UI with smooth animations
 
+## Screenshots
+
+### Empty State
+![Todo List Empty State](src/images/todo-list-empty.png)
+*Initial view when no tasks are added*
+
+### With Tasks
+![Todo List With Tasks](src/images/todo-list-with-tasks.png)
+*Todo List with active and completed tasks*
+
+### Active Tasks View
+![Todo List Active Tasks](src/images/todo-list-active-tasks.png)
+*Todo List showing active tasks with filter applied*
+
 ## Live Demo
 
 You can try the application at [http://localhost:3000](http://localhost:3000) after starting the development server.
