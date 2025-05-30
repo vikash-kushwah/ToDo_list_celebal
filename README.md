@@ -108,15 +108,6 @@ The application uses CSS variables for easy theme customization. The main colors
 }
 ```
 
-## Future Enhancements
-
-- [ ] Task categories/tags
-- [ ] Due dates for tasks
-- [ ] Priority levels
-- [ ] Dark/Light theme toggle
-- [ ] Drag and drop reordering
-- [ ] Multi-user support
-
 ## Contributing
 
 1. Fork the repository
