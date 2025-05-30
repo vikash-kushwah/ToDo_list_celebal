@@ -26,7 +26,7 @@ A sleek and responsive Todo List application built with React, featuring a moder
 
 ### Active Tasks View
 ![Todo List Active Tasks](src/images/todo-list-active-tasks.png)
-*Todo List showing active tasks with filter applied*
+*Todo List showing active tasks with filter applied after clearing completed tasks*
 
 ## Live Demo
 
