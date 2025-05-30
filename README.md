@@ -1,6 +1,6 @@
-# React Todo List Application
+# Modern Todo List Application
 
-A modern and interactive Todo List application built with React. This application helps users manage their daily tasks with a clean interface and powerful features.
+A sleek and responsive Todo List application built with React, featuring a modern UI design and robust functionality for efficient task management. Perfect for keeping track of your daily tasks with style.
 
 ## Features
 
@@ -22,8 +22,8 @@ You can try the application at [http://localhost:3000](http://localhost:3000) af
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd to-do_list
+   git clone https://github.com/vikash-kushwah/ToDo_list_celebal.git
+   cd ToDo_list_celebal
    ```
 
 2. Install dependencies:
@@ -92,6 +92,31 @@ Creates an optimized production build in the `build` folder
 - Custom Hooks
 - Component Optimization with React.memo
 
+## Styling and Customization
+
+The application uses CSS variables for easy theme customization. The main colors can be modified in the `TodoList.css` file:
+
+```css
+:root {
+  --primary: #4a90e2;    /* Primary actions and active states */
+  --success: #2ecc71;    /* Success states */
+  --danger: #e74c3c;     /* Delete and warning actions */
+  --warning: #e67e22;    /* Sort button */
+  --text: #2c3e50;       /* Main text color */
+  --bg-main: #9dd6e5;    /* Background color */
+  /* Other customizable variables available */
+}
+```
+
+## Future Enhancements
+
+- [ ] Task categories/tags
+- [ ] Due dates for tasks
+- [ ] Priority levels
+- [ ] Dark/Light theme toggle
+- [ ] Drag and drop reordering
+- [ ] Multi-user support
+
 ## Contributing
 
 1. Fork the repository
@@ -99,3 +124,16 @@ Creates an optimized production build in the `build` folder
 3. Commit your changes: `git commit -am 'Add new feature'`
 4. Push to the branch: `git push origin new-feature`
 5. Submit a Pull Request
+
+## License
+
+This project is open source and available under the MIT License.
+
+## Author
+
+Vikash Kushwah
+- GitHub: [vikash-kushwah](https://github.com/vikash-kushwah)
+
+## Acknowledgments
+
+This project was created as part of the Celebal Technologies React internship program.
