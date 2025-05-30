@@ -116,10 +116,6 @@ The application uses CSS variables for easy theme customization. The main colors
 4. Push to the branch: `git push origin new-feature`
 5. Submit a Pull Request
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Author
 
 Vikash Kushwah
